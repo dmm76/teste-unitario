@@ -2,6 +2,6 @@ package org.example;
 
 public class PalavrasUtils {
     public static int countPalavras(String texto) {
-        return 0;
+        return texto.trim().split("\\s+").length;
     }
 }
