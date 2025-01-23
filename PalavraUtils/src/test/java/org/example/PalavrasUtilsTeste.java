@@ -36,4 +36,12 @@ public class PalavrasUtilsTeste {
         System.out.println(palavras);
     }
 
+    @Test(expected = NullPointerException.class)
+    public void testContarPalavrasNullPalavraSucesso() {
+        String texto = null;
+        int palavras = PalavrasUtils.countPalavras(texto);
+        Assert.assertEquals(10, palavras);
+        System.out.println(palavras);
+    }
+
 }
