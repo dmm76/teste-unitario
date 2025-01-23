@@ -1,14 +1,14 @@
 package org.example;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Assert;
+import org.junit.Test;
 
-import static org.junit.jupiter.api.Assertions.*;
-
-class MainTest {
+public class MainTest {
 
     @Test
-    void testSaudacao() {
-        // Testando se o método saudacao pode ser chamado sem erros.
-        assertDoesNotThrow(() -> Main.saudacao());
+    public void test(){
+        String saudacao = Main.saudacao();
+        System.out.println("Saudacao retornada: " + saudacao);
+        Assert.assertEquals("Hello, World!", saudacao);
     }
 }

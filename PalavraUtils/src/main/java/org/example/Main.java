@@ -5,7 +5,7 @@ public class Main {
 
         saudacao();
     }
-    public static void saudacao(){
-        System.out.println("Hello, World!");
+    public static String saudacao(){
+        return "Hello, World!";
     }
 }
