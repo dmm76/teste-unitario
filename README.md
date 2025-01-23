@@ -3,17 +3,17 @@ Repositorio para estudos sobre testes unitárops
 
 Utilizando Junit4
 
-build.grade{
-
-  dependencies {
+    build.grade{
     
-    // Adiciona a biblioteca do JUnit 4
+      dependencies {
+        
+        // Adiciona a biblioteca do JUnit 4
+        
+        testImplementation 'junit:junit:4.13.2'
+      }
     
-    testImplementation 'junit:junit:4.13.2'
-  }
-
-  tasks.test {
-  
-    useJUnit()
-  }
-}
+      tasks.test {
+      
+        useJUnit()
+      }
+    }
