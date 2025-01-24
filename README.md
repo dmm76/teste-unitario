@@ -1,5 +1,5 @@
 # teste-unitario
-Repositorio para estudos sobre testes unitárops
+Repositorio para estudos sobre testes unitários
 
 Utilizando Junit4
 
