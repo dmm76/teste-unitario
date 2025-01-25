@@ -2,7 +2,7 @@
   <img 
     src="https://www.meuuniversonerd.com.br/images/noticias-conteudo/cat-tecnologia/desenvolvimento/2024-08-26-melhores-praticas-testes-unitarios-java.jpg" 
     alt="Banner sobre melhores práticas para testes unitários em Java, com elementos de tecnologia e desenvolvimento" 
-    style="max-width: 60%; height: auto;"
+    style="max-width: auto; height: "5px" ;"
   />
 </div>
 
