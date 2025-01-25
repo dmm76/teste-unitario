@@ -1,4 +1,6 @@
-![banner](https://www.meuuniversonerd.com.br/images/noticias-conteudo/cat-tecnologia/desenvolvimento/2024-08-26-melhores-praticas-testes-unitarios-java.jpg)
+<p align="center">
+  <img src="https://www.meuuniversonerd.com.br/images/noticias-conteudo/cat-tecnologia/desenvolvimento/2024-08-26-melhores-praticas-testes-unitarios-java.jpg" alt="Banner" width="100%">
+</p>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dmm76/teste-unitario)
 [![GitHub License](https://img.shields.io/github/license/dmm76/teste-unitario)](https://img.shields.io/github/license/dmm76/teste-unitario?cacheSeconds=0)
