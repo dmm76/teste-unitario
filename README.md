@@ -1,11 +1,3 @@
-<div style="text-align: center;">
-  <img 
-    src="https://www.meuuniversonerd.com.br/images/noticias-conteudo/cat-tecnologia/desenvolvimento/2024-08-26-melhores-praticas-testes-unitarios-java.jpg" 
-    alt="Banner sobre melhores práticas para testes unitários em Java, com elementos de tecnologia e desenvolvimento" 
-    style="max-width: 100% ; height: 20rem ;"
-  />
-</div>
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/dmm76/teste-unitario)
 [![GitHub License](https://img.shields.io/github/license/dmm76/teste-unitario)](https://img.shields.io/github/license/dmm76/teste-unitario?cacheSeconds=0)
 ![GitHub language count](https://img.shields.io/github/languages/count/dmm76/teste-unitario)
