@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.meuuniversonerd.com.br/images/noticias-conteudo/cat-tecnologia/desenvolvimento/2024-08-26-melhores-praticas-testes-unitarios-java.jpg" alt="Banner" width="60%" heigth="10%"> 
+  <img src="https://www.meuuniversonerd.com.br/images/noticias-conteudo/cat-tecnologia/desenvolvimento/2024-08-26-melhores-praticas-testes-unitarios-java.jpg" alt="Banner" width="60%" height="10%"> 
 </p>
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/dmm76/teste-unitario)
