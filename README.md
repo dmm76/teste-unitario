@@ -1,3 +1,5 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/dmm76/teste-unitario)
+
 # teste-unitario
 Repositorio para estudos sobre testes unitários
 
